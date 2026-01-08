@@ -1,0 +1,436 @@
+name,latitude,longitude,ownership_type,management_type,barista_s1_ratio,avg_price,wifi_speed,occupancy_rate
+Starbucks,-6.8939696,107.6055017,Chain/Franchise,Formal,0.2,35843,25,51
+SPBU Dago,-6.869002,107.6208824,Local Specialty,Informal (Creative),0.93,30374,73,66
+Habenagen Coffeeshop,-6.9021325,107.6040636,Local Specialty,Informal (Creative),0.89,36171,33,41
+The Oldway Cafe,-6.9070431,107.6230593,Local Specialty,Informal (Creative),0.91,32490,63,62
+Kabut Salju,-6.9183143,107.6143286,Local Specialty,Informal (Creative),0.89,39699,37,45
+Cokotetra,-6.878483,107.616839,Local Specialty,Informal (Creative),0.66,35125,112,95
+YUTAKANA,-6.8834511,107.6147196,Local Specialty,Informal (Creative),0.89,39286,61,55
+Tizi's Cafe,-6.8831106,107.6138208,Local Specialty,Informal (Creative),0.74,41308,57,59
+Roti Gempol & Kopi Anjis!,-6.909191,107.6276245,Local Specialty,Informal (Creative),0.95,35733,85,82
+KAFE SISHA FURDAN,-6.9089804,107.627429,Local Specialty,Informal (Creative),0.96,31965,50,55
+ROCKEPO KAFE,-6.9071425,107.6202146,Local Specialty,Informal (Creative),0.87,37544,43,73
+Kopi kamu,-6.8979598,107.6098119,Local Specialty,Informal (Creative),0.81,34311,40,57
+The Valley Bistro,-6.8636195,107.6339512,Local Specialty,Informal (Creative),0.8,33850,34,22
+Karnivor,-6.9079727,107.6239556,Local Specialty,Informal (Creative),0.85,27387,44,57
+Noah's Barn,-6.8869895,107.6126856,Local Specialty,Informal (Creative),0.62,40655,69,89
+The Stone Cafe,-6.8650359,107.6265097,Local Specialty,Informal (Creative),0.77,41613,37,50
+Congo Gallery & Cafe,-6.8676855,107.6277808,Local Specialty,Informal (Creative),0.86,43260,63,59
+Badung Cafe & Resto,-6.9061929,107.5981092,Local Standard,Informal,0.21,14410,14,50
+Hummingbird Eatery,-6.904728,107.6178751,Local Specialty,Informal (Creative),0.99,31759,40,70
+Eatboss Cafe,-6.9088982,107.6184895,Local Specialty,Informal (Creative),0.75,41598,79,54
+Bober,-6.917453,107.6132859,Local Specialty,Informal (Creative),0.88,40974,81,66
+Brusselsspring,-6.9164146,107.6138316,Local Specialty,Informal (Creative),0.7,26172,56,72
+Soleluna,-6.916593,107.6138143,Local Specialty,Informal (Creative),0.89,36259,70,76
+Two Cents,-6.905489,107.6206005,Local Specialty,Informal (Creative),0.89,34259,73,68
+Little White Cafe,-6.9291255,107.6196615,Local Standard,Informal,0.23,9918,10,39
+Vanilla Kitchen & Wine,-6.9036224,107.6209866,Local Specialty,Informal (Creative),0.75,37399,20,35
+Kopi Progo,-6.9046421,107.618747,Local Specialty,Informal (Creative),0.7,29258,92,75
+Giggle Box Cafe And Resto,-6.9045688,107.6197076,Local Specialty,Informal (Creative),0.74,42027,60,59
+Southville,-6.9286472,107.5868038,Local Standard,Informal,0.17,16100,6,30
+Wiki Koffie,-6.9160557,107.6091519,Local Specialty,Informal (Creative),0.95,32173,38,63
+Imah Kopi,-6.814801,107.6235807,Local Specialty,Informal (Creative),0.96,25749,80,71
+Everjoy Coffee and Cafe,-6.9052965,107.6138859,Local Specialty,Informal (Creative),0.91,38041,71,56
+Chingu Cafe,-6.9010768,107.6097423,Local Specialty,Informal (Creative),0.96,35156,75,74
+Kupu Bistro,-6.9025783,107.6097557,Local Specialty,Informal (Creative),0.71,38300,49,77
+ETC Etcetera,-6.9024057,107.6143369,Local Specialty,Informal (Creative),0.85,27341,61,77
+Oldbens Cafe,-6.900332,107.6136806,Local Specialty,Informal (Creative),0.95,38220,77,60
+Ludwick Café,-6.872527,107.5932983,Local Specialty,Informal (Creative),0.63,39895,48,56
+Uncle's Storage,-6.9204024,107.6130499,Local Standard,Informal,0.12,15993,11,27
+Monsoon Cafe,-6.884257,107.5968352,Local Specialty,Informal (Creative),0.69,35592,64,64
+Cafe D'Pakar,-6.8467341,107.6498632,Local Specialty,Informal (Creative),0.78,38766,40,34
+Hoppers,-6.8997615,107.6104078,Local Specialty,Informal (Creative),0.86,33448,65,63
+Kedai Persib,-6.8996949,107.610294,Local Specialty,Informal (Creative),0.68,45252,59,61
+Coffee Time,-6.963849,107.5631391,Local Standard,Informal,0.25,5932,19,25
+Gudang Kopi,-6.9617471,107.5591707,Local Standard,Informal,0.13,12971,-12,33
+Ngopi Doeloe,-6.9072065,107.5668787,Local Standard,Informal,0.02,20785,23,52
+Kedai Pantai Timur,-6.8979361,107.592867,Local Standard,Informal,0.22,12979,18,26
+Take Ichi Japanese Cafe,-6.8851859,107.5815401,Local Specialty,Informal (Creative),0.95,24687,25,32
+Sugar Rush,-6.8891532,107.582279,Local Specialty,Informal (Creative),0.76,41891,76,51
+Otten Inn & Viit Cafe,-6.90137,107.5990705,Local Standard,Informal,0.06,16438,7,30
+Milan Cafe,-6.9309098,107.6262291,Local Standard,Informal,0.15,18296,9,33
+Magic Wok Tavern,-6.9120068,107.5960795,Local Standard,Informal,0.1,11648,7,26
+Pokatiam,-6.9109614,107.5979568,Local Standard,Informal,0.18,14905,15,15
+Yoss Coffe,-6.917344,107.5983109,Local Standard,Informal,0.01,18265,10,42
+DAGO COFFEE,-6.9049786,107.6104791,Local Specialty,Informal (Creative),0.88,25726,63,73
+SWG COFFEE,-6.9025596,107.6104052,Local Specialty,Informal (Creative),0.91,30007,38,58
+Cafe Pohon Durian Bandung,-6.9023283,107.6102359,Local Specialty,Informal (Creative),0.7,41219,85,73
+Starbucks,-6.8861336,107.5816203,Chain/Franchise,Formal,0.28,41867,30,44
+833R Store,-6.9606074,107.5566158,Local Standard,Informal,0.08,12402,12,33
+Buthcer's Bill Cafe & Resto,-6.9095825,107.6273878,Local Specialty,Informal (Creative),0.63,33062,42,44
+Chinook Café and Resto,-6.9119046,107.628106,Local Specialty,Informal (Creative),0.97,36800,77,65
+Toko Kue & Cafe Bawean,-6.9123755,107.6282628,Local Specialty,Informal (Creative),0.9,27952,36,48
+Gotcha Ice Cream,-6.8958583,107.6348705,Local Specialty,Informal (Creative),0.75,40746,42,67
+Koffiechino,-6.8946071,107.6346631,Local Specialty,Informal (Creative),0.65,28598,65,77
+Trends Cafe & Resto,-6.8940138,107.6348136,Local Standard,Informal,0.13,14794,0,33
+Gaza Mediterranean,-6.8943992,107.635277,Local Standard,Informal,0.18,18796,20,24
+TOASTCREAM Toastbox & Ice Cream Bar,-6.8918442,107.6165405,Local Specialty,Informal (Creative),0.72,30177,103,80
+Hangout Cafe,-6.8949494,107.6164681,Local Specialty,Informal (Creative),0.95,43690,63,76
+Starbucks,-6.8960232,107.6168462,Chain/Franchise,Formal,0.28,44376,18,40
+Kedai Kecil,-6.8961805,107.6166992,Local Specialty,Informal (Creative),0.65,38434,36,67
+B'Owl!,-6.8969548,107.6156562,Local Specialty,Informal (Creative),0.88,34047,38,54
+Blackjack Coffee,-6.9189145,107.5889524,Local Standard,Informal,0.27,13664,1,35
+Kaminumasa,-6.9769183,107.6326245,Local Standard,Informal,0.21,15917,-12,10
+Chillax Coffee And Tea,-6.8975816,107.6437749,Local Standard,Informal,0.04,7097,-2,11
+Bober,-6.8869859,107.6149061,Local Specialty,Informal (Creative),0.96,33644,41,82
+18 Hrs Cafe,-6.8710748,107.5936203,Local Specialty,Informal (Creative),0.94,39111,51,52
+Soda Resto,-6.9063815,107.6103688,Local Specialty,Informal (Creative),0.73,45721,51,62
+Starbucks,-6.9169485,107.6091118,Chain/Franchise,Formal,0.2,43411,25,44
+Bober,-6.907337,107.6232794,Local Specialty,Informal (Creative),0.61,35991,85,66
+"Please, Please, Please",-6.9045305,107.6199423,Local Specialty,Informal (Creative),0.65,37970,95,88
+180 Coffee and Music,-6.8938137,107.6123099,Local Specialty,Informal (Creative),0.94,28601,78,90
+Le Delice Cafe And Bakery,-6.9248412,107.621374,Local Standard,Informal,0.2,5651,7,51
+Nanny's Pavillon,-6.9078484,107.6237768,Local Specialty,Informal (Creative),0.73,30358,97,92
+Ujenk Gemi Bar,-6.9070236,107.6057856,Local Specialty,Informal (Creative),0.62,40036,68,68
+Lacamera Coffee,-6.9206091,107.6154775,Local Standard,Informal,0.12,5734,29,45
+N Cafe,-6.8767124,107.5728814,Local Specialty,Informal (Creative),0.76,32003,25,47
+Forest Cafe,-6.8577375,107.6289779,Chain/Franchise,Formal,0.1,37633,32,45
+Loco Chiks and Chill,-6.930728,107.6219372,Local Standard,Informal,0.25,14084,21,48
+Brussels Spring,-6.9186286,107.6141221,Local Specialty,Informal (Creative),0.9,35580,85,70
+sfroastery,-6.9161264,107.5887671,Local Standard,Informal,0.27,15702,10,19
+Armor Coffee,-6.8581757,107.6323803,Local Specialty,Informal (Creative),0.96,29494,75,86
+Aviator Coffee Camp,-6.8616646,107.6484767,Local Specialty,Informal (Creative),1.0,39684,79,75
+The People's Cafe,-6.8901174,107.5960789,Local Standard,Informal,0.02,18121,-3,10
+Starbucks Reserve,-6.8901104,107.5965612,Chain/Franchise,Formal,0.2,35309,25,31
+Djournál,-6.8901004,107.5961777,Local Standard,Informal,0.11,17556,32,30
+Caribou Coffee,-6.8886602,107.5960294,Local Specialty,Informal (Creative),0.6,30135,63,52
+Black Canyon,-6.8885606,107.5960266,Local Specialty,Informal (Creative),0.66,30194,71,67
+Halaman,-6.8889259,107.5960428,Local Specialty,Informal (Creative),0.91,27623,36,56
+Rose Bread,-6.961599,107.6246951,Local Standard,Informal,0.01,14982,7,37
+Jifast The Power Of Durian,-6.9157346,107.6304829,Local Specialty,Informal (Creative),0.82,36112,46,64
+Starbucks,-6.8733449,107.6050402,Chain/Franchise,Formal,0.26,28096,25,48
+Starbucks,-6.9064912,107.6170456,Chain/Franchise,Formal,0.11,30104,22,53
+Coffee Time,-6.93908,107.7458969,Local Standard,Informal,0.18,17385,3,24
+La petite corner,-6.9296717,107.6035086,Local Standard,Informal,0.1,26323,15,29
+Kopi Toko Djawa,-6.9174934,107.6092599,Local Specialty,Informal (Creative),0.72,33699,93,97
+Art,-6.9171923,107.6093407,Local Specialty,Informal (Creative),0.79,39910,94,78
+Chatime,-6.9169517,107.6089282,Chain/Franchise,Formal,0.16,42953,22,26
+Warnet Nur,-6.9165534,107.5889526,Local Standard,Informal,0.27,15083,3,18
+Cafe Bali,-6.9136103,107.6292534,Local Specialty,Informal (Creative),0.66,35723,87,85
+Gajua Kopi,-6.9018765,107.60974,Local Specialty,Informal (Creative),0.7,29749,41,47
+Tiga Outdoor Cafe,-6.8949433,107.6162456,Local Specialty,Informal (Creative),0.64,38869,44,53
+Kopi Siologi,-6.8868433,107.6266658,Local Specialty,Informal (Creative),0.61,38789,68,90
+The Valley,-6.8629017,107.6301376,Local Specialty,Informal (Creative),0.92,45816,48,61
+Kebon Awi,-6.8615968,107.6321809,Local Specialty,Informal (Creative),0.79,38669,30,39
+Fashion Pasta,-6.8586541,107.6373118,Local Specialty,Informal (Creative),0.97,45978,80,73
+Lisung,-6.8588451,107.6374225,Local Specialty,Informal (Creative),0.72,29930,77,63
+Warung Taru,-6.8657012,107.6213081,Local Specialty,Informal (Creative),0.62,30810,34,48
+The Goodlife,-6.8813092,107.5826337,Local Specialty,Informal (Creative),0.96,36641,66,71
+Kopi Sepuluh,-6.9059425,107.6191508,Local Specialty,Informal (Creative),0.69,34787,39,43
+Chatime,-6.9062428,107.5978201,Chain/Franchise,Formal,0.28,37060,16,13
+Chiba,-6.9097811,107.5969413,Local Standard,Informal,0.21,24890,29,23
+Jardin,-6.9054216,107.6202311,Local Specialty,Informal (Creative),0.9,34057,66,73
+Dono Reborn,-6.8924838,107.6251253,Local Specialty,Informal (Creative),0.98,34983,21,33
+Baso Aci Ciwang 88,-6.9071388,107.6180169,Local Specialty,Informal (Creative),0.78,46531,53,65
+Majelis Kopi,-7.0017718,107.748894,Local Standard,Informal,0.3,16231,24,37
+Waroeng Eurad Bodypack,-6.7899252,107.6829009,Local Specialty,Informal (Creative),0.88,34186,43,56
+Kedai Garasi74,-7.0217224,107.6089649,Local Standard,Informal,0.27,19432,18,22
+Masagi Coffee,-6.8686861,107.6065263,Local Specialty,Informal (Creative),0.74,30186,27,24
+Kuro Coffee,-6.8711062,107.6056926,Local Specialty,Informal (Creative),0.83,29001,17,35
+Kopipi,-6.9032558,107.6139508,Local Specialty,Informal (Creative),0.94,31456,84,56
+Warung Timik-timik,-6.7788924,107.7352609,Local Specialty,Informal (Creative),0.87,30716,67,66
+Jenderal Kopi Nusantara Buwas coffee,-6.9140252,107.6297763,Local Specialty,Informal (Creative),0.94,26644,37,54
+Ngopo Doeloe Sangkurian,-6.8840265,107.6116969,Local Specialty,Informal (Creative),0.77,46067,66,61
+Joomba,-6.9156712,107.6418632,Local Standard,Informal,0.25,8460,26,38
+Joh-Eun Keopi,-6.9160279,107.6407122,Local Standard,Informal,0.08,19289,26,31
+Mixue,-6.9182851,107.6094729,Local Standard,Informal,0.29,16103,8,29
+Dragonstorm Soreang,-7.0185963,107.5487402,Local Standard,Informal,0.2,21159,-8,36
+WARUNG CLICKSQUARE,-6.9107304,107.6329394,Local Specialty,Informal (Creative),0.61,29845,99,85
+otto iskandardinata 305,-6.9248453,107.6039702,Local Standard,Informal,0.05,20249,20,30
+Kopi Kenangan,-6.92656,107.7105623,Chain/Franchise,Formal,0.18,31554,29,42
+M Coffee Company,-6.9487922,107.5625018,Local Standard,Informal,0.17,6979,11,27
+Mixue,-6.9315299,107.7146477,Local Standard,Informal,0.17,20218,10,33
+Warung Kopi Imah Babaturan,-6.8980574,107.607698,Local Specialty,Informal (Creative),0.76,37649,60,54
+Bagi Kopi,-6.8776541,107.6168476,Local Specialty,Informal (Creative),0.84,36256,41,43
+Point Coffee,-6.9453718,107.6304886,Chain/Franchise,Formal,0.13,32309,22,26
+Fore Coffee,-6.9410924,107.6268912,Chain/Franchise,Formal,0.14,30759,28,23
+Kopi Kenangan,-6.9411448,107.6270712,Chain/Franchise,Formal,0.17,35828,25,33
+Chatime,-6.9398319,107.625775,Chain/Franchise,Formal,0.19,33012,32,41
+Starbucks,-6.9158532,107.5944292,Chain/Franchise,Formal,0.14,41668,30,39
+Mixue,-6.9667086,107.6386485,Local Standard,Informal,0.19,14675,21,28
+Janji Jiwa,-6.9667087,107.6384718,Chain/Franchise,Formal,0.14,42783,18,17
+Chatime,-6.9661903,107.6380992,Chain/Franchise,Formal,0.18,30229,33,26
+Point Coffee,-6.9293268,107.6383175,Chain/Franchise,Formal,0.2,48826,33,22
+Chatime,-6.9011192,107.6117927,Chain/Franchise,Formal,0.16,33095,11,33
+Kopi Kenangan,-6.8936026,107.6051072,Chain/Franchise,Formal,0.3,39589,23,51
+Garden Coffee,-6.9130481,107.6326629,Local Specialty,Informal (Creative),0.73,35330,53,65
+Kofu,-6.9024399,107.6217955,Local Specialty,Informal (Creative),0.66,39008,54,69
+Starbucks,-6.9063298,107.5977616,Chain/Franchise,Formal,0.22,32507,25,32
+Eiger Coffee,-6.9052076,107.6045701,Local Specialty,Informal (Creative),0.91,32558,47,51
+Mixue,-6.9237589,107.617037,Local Standard,Informal,0.23,10642,35,34
+Point Coffee,-6.9241793,107.6201345,Chain/Franchise,Formal,0.21,33607,32,15
+Kamasan,-6.9072927,107.6158218,Local Specialty,Informal (Creative),0.66,34626,63,64
+Bright Cafe,-6.8902542,107.6127312,Local Specialty,Informal (Creative),0.93,32739,46,59
+Starbucks,-6.8991191,107.6211357,Chain/Franchise,Formal,0.11,37442,22,44
+TOMORO Coffee,-6.8687202,107.5320155,Local Specialty,Informal (Creative),0.86,28726,50,54
+Limasegi Di Pinus,-6.7816582,107.6466239,Local Specialty,Informal (Creative),0.91,31457,43,54
+Broy.co,-6.9217662,107.6727307,Local Standard,Informal,0.13,12967,-4,21
+Kopi Kenangan,-6.8949076,107.5887755,Chain/Franchise,Formal,0.27,39245,23,14
+Kozi x Marawa,-6.8821567,107.6139604,Local Specialty,Informal (Creative),0.95,35554,39,51
+Starbucks,-6.9552303,107.6967913,Chain/Franchise,Formal,0.18,27825,18,26
+Excelso,-6.9551464,107.6972339,Chain/Franchise,Formal,0.11,41957,24,23
+J.Co,-6.9547817,107.6974504,Chain/Franchise,Formal,0.22,41182,13,37
+Kenangan Signature,-6.9542561,107.6982999,Chain/Franchise,Formal,0.29,44766,26,33
+Dear Clio,-6.9540125,107.6985746,Local Standard,Informal,0.24,8909,24,41
+Kenangan Signature,-6.9542561,107.6982999,Chain/Franchise,Formal,0.27,37042,22,32
+Dear Clio,-6.9540125,107.6985746,Local Standard,Informal,0.0,10736,-1,21
+Kopi Kenangan,-6.907439,107.6089496,Chain/Franchise,Formal,0.29,48088,24,38
+Saraga Coffee,-6.8766336,107.6234896,Local Specialty,Informal (Creative),0.85,32814,63,75
+Chatime,-6.8755511,107.6042704,Chain/Franchise,Formal,0.27,44765,22,31
+Kopi Kenangan,-6.8756006,107.6042621,Chain/Franchise,Formal,0.15,34252,25,48
+Kopi Kenangan,-6.9183441,107.6182166,Chain/Franchise,Formal,0.15,35129,21,46
+Point Coffee,-6.9170677,107.6178618,Chain/Franchise,Formal,0.13,38218,23,36
+Maxx Coffee,-6.9136374,107.6023798,Local Standard,Informal,0.17,14916,-1,11
+Kopi Kenangan,-6.9069669,107.6133478,Chain/Franchise,Formal,0.17,40583,20,54
+Point Coffee,-6.9086249,107.6149449,Chain/Franchise,Formal,0.13,36207,24,51
+Kopi Kenangan,-6.9235043,107.6058278,Chain/Franchise,Formal,0.21,32221,24,25
+Bento Kopi,-6.9263544,107.7051584,Local Standard,Informal,0.27,15194,9,15
+Maxx Coffee,-6.9087306,107.6109311,Local Specialty,Informal (Creative),0.99,40966,52,50
+Chatime,-6.9088052,107.6112583,Chain/Franchise,Formal,0.23,38532,21,31
+Xing Fu Tang,-6.9088105,107.6114756,Local Specialty,Informal (Creative),0.78,32298,36,54
+Fore Coffee,-6.9086534,107.6113254,Chain/Franchise,Formal,0.19,41086,15,44
+TOMORO Coffee,-6.9089357,107.6112758,Local Specialty,Informal (Creative),0.83,27282,84,68
+Point Coffee,-6.9137299,107.6027866,Chain/Franchise,Formal,0.26,39964,24,14
+J.Co,-6.9261792,107.6367581,Chain/Franchise,Formal,0.17,35017,16,17
+The Coffee Bean,-6.926126,107.6365703,Local Standard,Informal,0.14,22858,33,46
+Fore Coffee,-6.9261073,107.6362726,Chain/Franchise,Formal,0.18,28239,23,38
+Kopi Guyu,-6.9252899,107.6369539,Local Standard,Informal,0.29,12344,35,37
+KOI The,-6.9258118,107.636632,Local Standard,Informal,0.09,17214,15,20
+Gulu Gulu,-6.9256946,107.6369002,Local Standard,Informal,0.12,12310,22,43
+Chatime,-6.9080783,107.6089945,Chain/Franchise,Formal,0.27,44814,27,41
+Mixue,-6.9077481,107.6089409,Local Specialty,Informal (Creative),0.66,29537,61,49
+Coffee Dreams,-6.9080543,107.6088041,Local Specialty,Informal (Creative),0.92,38848,44,54
+Bean Spot,-6.934669,107.6126719,Local Standard,Informal,0.09,17603,16,59
+Bean Spot,-6.9305899,107.6158027,Local Standard,Informal,0.1,14051,27,45
+Es Teh Indonesia,-6.9299948,107.6159549,Local Standard,Informal,0.15,13507,9,38
+Korner,-6.930068,107.6158972,Local Standard,Informal,0.13,13277,23,36
+Jala Kopi,-6.9222099,107.6174482,Local Standard,Informal,0.15,16630,15,40
+Kedai Kopi Oh,-6.9182591,107.6182294,Local Specialty,Informal (Creative),0.73,33455,46,54
+Bean Spot,-6.9385433,107.6240548,Local Standard,Informal,0.13,17158,21,32
+Kopi Soe,-6.8895732,107.5957994,Chain/Franchise,Formal,0.26,36137,28,16
+CGV Cafe,-6.8881792,107.5960006,Local Specialty,Informal (Creative),0.97,32787,71,69
+Kopi Kenangan,-6.8904932,107.5962339,Chain/Franchise,Formal,0.29,36352,28,33
+Janji Jiwa,-6.8901338,107.596364,Chain/Franchise,Formal,0.26,40858,20,23
+Kopi Lay,-6.8893096,107.596132,Local Specialty,Informal (Creative),0.73,41437,53,50
+Fore Coffee,-6.8884167,107.5962458,Chain/Franchise,Formal,0.29,22954,27,53
+Chatime,-6.9057311,107.5971955,Chain/Franchise,Formal,0.23,39905,33,36
+Kupi Pass,-6.8981169,107.5968488,Local Standard,Informal,0.08,24922,25,33
+Otten Coffee,-6.9014214,107.5976649,Local Standard,Informal,0.15,17996,6,25
+Janji Jiwa,-6.9057404,107.5969756,Chain/Franchise,Formal,0.19,35065,24,39
+Ganefo,-6.9213245,107.618971,Local Standard,Informal,0.23,13178,18,19
+Point Coffee,-6.9191878,107.6240437,Chain/Franchise,Formal,0.27,47415,21,40
+Non Kitchen Coffee,-6.922132,107.6181697,Local Standard,Informal,0.17,12170,19,44
+Chatime,-6.9237935,107.6059891,Chain/Franchise,Formal,0.23,47759,33,45
+Dunkin Donuts,-6.945204,107.5953253,Chain/Franchise,Formal,0.23,33523,19,18
+Fruity,-6.9229907,107.6049753,Local Standard,Informal,0.24,15930,-4,29
+Janji Jiwa,-6.9226965,107.6048411,Chain/Franchise,Formal,0.17,38211,22,13
+Pa Oyen,-6.9230413,107.6048908,Local Standard,Informal,0.26,19086,4,22
+Kimiku,-6.9229215,107.6049189,Local Standard,Informal,0.08,8998,23,42
+Chatime,-6.9228323,107.6052207,Chain/Franchise,Formal,0.23,33142,26,38
+Puyo,-6.9230826,107.6048143,Local Standard,Informal,0.24,9737,5,31
+Gulu Gulu,-6.9230346,107.6048197,Local Standard,Informal,0.24,17646,18,32
+Point Coffee Indomaret,-6.930088,107.6035886,Chain/Franchise,Formal,0.18,29268,33,45
+Korner,-6.9214217,107.6100741,Local Standard,Informal,0.27,13745,15,16
+Bean Spot,-6.917025,107.6083052,Local Specialty,Informal (Creative),0.99,38680,81,69
+Bahagia Kopi,-6.9181992,107.6094452,Local Standard,Informal,0.18,11885,22,52
+Mixue,-6.9214803,107.6087008,Local Standard,Informal,0.15,9847,27,43
+Janji Jiwa,-6.9172247,107.608607,Chain/Franchise,Formal,0.24,40583,20,49
+Flash Coffee,-6.9171821,107.6087317,Local Specialty,Informal (Creative),0.92,34296,31,49
+Korner,-6.9158827,107.6090844,Local Specialty,Informal (Creative),0.83,28637,64,81
+Shooters Pool & Cafe,-6.9157469,107.6088571,Local Specialty,Informal (Creative),0.94,29148,54,70
+Why Not?,-6.9181054,107.6095813,Local Standard,Informal,0.03,20582,-2,10
+Goedang Kopi Braga,-6.9205344,107.6098582,Local Standard,Informal,0.05,10043,17,53
+Kopi Toko Djawa,-6.9172487,107.608379,Local Standard,Informal,0.22,11785,19,38
+Jabarano Coffee,-6.9201483,107.6098461,Local Standard,Informal,0.06,10937,10,33
+Suis Butcher,-6.9189781,107.6096597,Local Standard,Informal,0.19,17333,13,35
+Bean Spot,-6.9163094,107.6082294,Local Specialty,Informal (Creative),0.88,40038,95,86
+Korner,-6.9208865,107.6058892,Local Standard,Informal,0.02,22500,20,32
+Jiwa Toast,-6.9170396,107.6086271,Local Specialty,Informal (Creative),0.64,34935,57,33
+Warung Kopi Limarasa,-6.9184282,107.6096812,Local Standard,Informal,0.22,15759,32,51
+Freezh,-6.9181387,107.6095866,Local Standard,Informal,0.2,24876,28,20
+MyLoc Coffee,-6.9167108,107.6090294,Local Specialty,Informal (Creative),0.8,34306,45,59
+Korner,-6.9196038,107.6098227,Local Standard,Informal,0.15,18624,8,21
+Gas Inc Coffee& Gelato,-6.9182265,107.6096222,Local Standard,Informal,0.08,12757,17,38
+18 Coffee & Brew,-6.916796,107.6090569,Local Specialty,Informal (Creative),0.68,39986,81,53
+Xiyue,-6.8929457,107.6054862,Local Specialty,Informal (Creative),0.86,38240,38,43
+Kelapa Mueda,-6.892967,107.6056096,Local Specialty,Informal (Creative),0.7,32156,80,71
+Es Teh Nusantara,-6.8938431,107.6055559,Local Specialty,Informal (Creative),0.76,42543,26,40
+Sour Sally,-6.8931774,107.6057169,Local Specialty,Informal (Creative),0.82,31228,65,74
+Tong Tji Express,-6.8935395,107.6052113,Local Specialty,Informal (Creative),0.7,35358,53,55
+Puyo,-6.8936633,107.6057263,Local Specialty,Informal (Creative),0.88,34025,52,60
+J.CO Donuts & Coffee,-6.8934543,107.6059368,Chain/Franchise,Formal,0.29,43091,23,46
+Mochi Mochi,-6.8938151,107.6054902,Local Specialty,Informal (Creative),0.83,37399,59,52
+Upnormal Coffee Roasters,-6.8994802,107.6043275,Chain/Franchise,Formal,0.13,28931,31,64
+Fore Coffee,-6.8936474,107.6053038,Chain/Franchise,Formal,0.15,35306,28,55
+Kopilatinum,-6.8939469,107.6053146,Local Specialty,Informal (Creative),0.65,30803,45,50
+Chatime,-6.8928805,107.6054969,Chain/Franchise,Formal,0.1,36344,17,25
+Bean Spot,-6.8980223,107.6038112,Local Specialty,Informal (Creative),0.66,29213,92,93
+Janji Jiwa,-6.8970045,107.6037307,Chain/Franchise,Formal,0.12,33852,21,56
+Tous les Jours,-6.8906713,107.5962338,Local Standard,Informal,0.07,15546,27,19
+Cafe de Musee,-6.8600609,107.59394,Local Specialty,Informal (Creative),0.78,31208,39,47
+Kopi Kenangan,-6.9557777,107.6973994,Chain/Franchise,Formal,0.2,39703,25,41
+Starbucks,-6.8722446,107.5396944,Chain/Franchise,Formal,0.23,34261,32,48
+Little Social Space,-6.8815672,107.5788046,Local Specialty,Informal (Creative),0.65,32467,79,61
+TOMORO Coffee,-6.8854024,107.6134807,Local Specialty,Informal (Creative),0.93,39759,48,66
+Point Coffee,-6.8857827,107.6139375,Chain/Franchise,Formal,0.23,35712,24,67
+Kopi Kenangan,-6.9667946,107.6388108,Chain/Franchise,Formal,0.18,39751,30,35
+Xi Boba,-6.9667935,107.6385967,Local Standard,Informal,0.01,18396,5,41
+The Coffee Bean & Tea Leaf,-6.9668766,107.6382542,Local Standard,Informal,0.11,14650,9,26
+Persegi Coffee,-6.8959269,107.6048656,Local Specialty,Informal (Creative),0.96,33592,45,42
+Jati,-6.8741674,107.6046198,Local Specialty,Informal (Creative),0.66,30939,89,78
+MIXUE Ciumbuleuit,-6.873965,107.6045856,Local Specialty,Informal (Creative),0.95,40340,56,54
+Ditokokopi,-6.8794269,107.6032186,Local Specialty,Informal (Creative),0.72,37459,46,44
+fajarphoria,-6.872039,107.5609056,Local Specialty,Informal (Creative),0.64,38591,32,39
+TUKU - Ambon,-6.9075012,107.6182495,Chain/Franchise,Formal,0.14,32583,14,56
+Flash Coffee,-6.9468381,107.6413621,Local Standard,Informal,0.06,12847,-7,17
+Fore Coffee,-6.9463283,107.6411971,Chain/Franchise,Formal,0.21,30924,22,37
+Point Coffee,-6.9757466,107.6374751,Chain/Franchise,Formal,0.14,38025,27,36
+Kopi Kenangan,-6.9066586,107.6171308,Chain/Franchise,Formal,0.25,34334,18,42
+Art Coffee,-6.9171857,107.609343,Local Specialty,Informal (Creative),0.62,39053,69,76
+Wiki Coffe,-6.9160496,107.6091452,Local Specialty,Informal (Creative),0.79,32018,81,78
+flash coffee,-6.9171712,107.6087343,Local Specialty,Informal (Creative),0.86,36801,77,88
+Kopi Toko Djawa,-6.9174913,107.6092602,Local Specialty,Informal (Creative),0.8,29981,83,67
+Bean Spot Cafe,-6.9163066,107.6082247,Local Specialty,Informal (Creative),0.78,30524,44,43
+Coffee 90,-6.8207606,107.6368582,Local Specialty,Informal (Creative),0.94,37905,62,62
+Kopi Kenangan,-6.9236101,107.6278801,Chain/Franchise,Formal,0.19,36549,23,34
+Toebroek Coffee,-6.8831467,107.5860352,Local Specialty,Informal (Creative),0.84,36704,44,52
+Temu Roti,-6.8764579,107.6232361,Local Specialty,Informal (Creative),0.95,40190,62,61
+Point Coffee,-6.9155748,107.6156562,Chain/Franchise,Formal,0.22,40934,29,45
+TOMORO Coffee,-6.9631574,107.5621306,Local Standard,Informal,0.16,11809,8,31
+Kopi Kenangan,-6.9633607,107.5624988,Chain/Franchise,Formal,0.14,49710,35,36
+Rooftop Coffee 1896,-6.9069845,107.6039968,Local Specialty,Informal (Creative),0.76,38825,79,61
+Bagi Kopi,-6.9352358,107.5928293,Local Standard,Informal,0.14,20723,8,32
+Warkop Suka Rasa,-6.8876954,107.6154204,Local Specialty,Informal (Creative),0.86,36800,56,84
+Es Coklat Impian Dipati Ukur,-6.8895414,107.6162461,Local Specialty,Informal (Creative),0.7,36463,63,83
+Douwes Dekker Kitchen,-6.8897156,107.6155163,Local Specialty,Informal (Creative),0.97,32503,77,79
+TOMORO Coffee,-6.8880494,107.6152539,Local Specialty,Informal (Creative),0.98,41148,56,61
+Pelagia f&b station,-6.9165847,107.6005901,Local Standard,Informal,0.25,11448,14,36
+Canda.coffee,-6.8506881,107.4964765,Local Specialty,Informal (Creative),0.65,45124,58,65
+Kopi Kenangan,-6.8696826,107.535141,Chain/Franchise,Formal,0.15,36744,22,21
+Chatime,-6.8856431,107.5542341,Chain/Franchise,Formal,0.19,34363,26,57
+Kopi Kenangan,-6.8880054,107.5557692,Chain/Franchise,Formal,0.3,39752,22,36
+East Indies,-6.8979085,107.6131797,Local Specialty,Informal (Creative),0.93,34049,33,43
+Point Coffee,-6.9594916,107.6996933,Chain/Franchise,Formal,0.11,41823,31,24
+Fore Coffee,-6.9090414,107.6109495,Chain/Franchise,Formal,0.13,36223,26,52
+Kopi Kenangan,-6.8690585,107.5937257,Chain/Franchise,Formal,0.25,31932,27,41
+Point Coffee,-6.9578772,107.6947776,Chain/Franchise,Formal,0.25,42362,28,18
+ClassiQue,-6.850147,107.5857206,Local Specialty,Informal (Creative),0.82,32365,81,56
+Bean,-6.9596553,107.6986534,Local Standard,Informal,0.1,13113,17,33
+The People's Cafe,-6.9552216,107.697204,Local Standard,Informal,0.04,16853,21,31
+Fore Coffee,-6.9549358,107.697337,Chain/Franchise,Formal,0.25,43061,28,21
+Koat Coffee,-6.94559,107.7056451,Local Standard,Informal,0.23,20867,36,38
+Point Coffee,-6.9143573,107.6323363,Chain/Franchise,Formal,0.21,32745,23,46
+Cerita di,-6.9035058,107.6041268,Local Specialty,Informal (Creative),0.76,30851,56,62
+Nescafe,-6.886874,107.6233729,Local Specialty,Informal (Creative),0.97,38938,96,94
+Nowala Coffee and Eatery,-6.9166642,107.6167624,Local Specialty,Informal (Creative),0.63,28770,61,98
+Kopi Kenangan,-6.9064704,107.5957325,Chain/Franchise,Formal,0.21,43530,25,38
+Roempi Coffee,-6.9124674,107.5987521,Local Standard,Informal,0.16,12878,-5,11
+Kopitiam 136,-6.9242636,107.6275601,Local Standard,Informal,0.18,19613,1,21
+Kozi,-6.9269543,107.6344668,Local Standard,Informal,0.26,13770,24,37
+Kopi Celah Kota,-6.9402128,107.6256352,Local Standard,Informal,0.09,15700,31,38
+Mixue,-6.9439157,107.7140447,Local Standard,Informal,0.1,13880,39,55
+Jabarano Coffee,-6.897631178327573,107.61325008223098,Local Specialty,Informal (Creative),0.85,27357,69,70
+Choosy Coffe,-6.869631374804087,107.62021021004144,Local Specialty,Informal (Creative),0.88,40629,35,47
+Calista Cafe,-6.864441117868176,107.62780947654761,Local Specialty,Informal (Creative),0.69,32566,67,64
+Kafe Halaman,-6.885242382034062,107.61180587805296,Local Specialty,Informal (Creative),0.99,26969,51,58
+Hummingbird,-6.904965048449058,107.6178910744084,Local Specialty,Informal (Creative),0.79,38852,25,50
+Lekker,-6.922608976677391,107.61738773631411,Local Standard,Informal,0.25,21190,0,19
+Kopi Aroma,-6.917473962667859,107.60623336756122,Local Standard,Informal,0.23,21280,40,30
+Kedai Bobko,-6.882016488462027,107.61593913786787,Local Specialty,Informal (Creative),0.88,30426,30,73
+MIXUE Dago,-6.8789789600820015,107.6167445692849,Local Specialty,Informal (Creative),0.62,40085,59,72
+372 Kopi,-6.875303797520763,107.61904732042866,Local Specialty,Informal (Creative),0.75,36797,26,40
+Ballroom & Karaoke,-6.920902726467146,107.62137705606123,Local Standard,Informal,0.24,14459,15,24
+Roti,-6.920537437921979,107.62147455482288,Local Standard,Informal,0.04,17060,11,10
+MASA,-6.902071628372642,107.61417270563051,Local Specialty,Informal (Creative),0.85,39130,58,58
+Critoe,-6.914874304931872,107.62579537043666,Local Specialty,Informal (Creative),0.89,34542,53,64
+Onsite Cafe,-6.923251061474579,107.62024252795302,Local Standard,Informal,0.03,11105,11,42
+Riverstone Bistro,-6.85292795,107.59006215,Local Specialty,Informal (Creative),0.91,40406,44,42
+terasararea kitchen,-6.8640946717550895,107.62669549245112,Local Specialty,Informal (Creative),0.87,29457,80,77
+U Café,-6.862033257057902,107.59373892511084,Local Specialty,Informal (Creative),0.77,32809,76,74
+Cupumanik Coffee,-6.77922352745046,107.71301630890788,Local Specialty,Informal (Creative),0.71,40202,35,39
+Coffee Lab 5758,-6.861339052304787,107.58257791880372,Local Specialty,Informal (Creative),0.79,47405,72,59
+Coffee Lab 5758,-6.861289366373898,107.58259531829034,Local Specialty,Informal (Creative),0.88,37977,36,54
+Masagi Coffee,-6.868693164462643,107.60653847288212,Local Specialty,Informal (Creative),0.78,30402,55,68
+Cafe Dante,-6.867547949999999,107.62323465000001,Local Specialty,Informal (Creative),0.61,32533,51,61
+Gonzo Anime Caffe,-6.902147148260795,107.60454161375351,Local Specialty,Informal (Creative),0.62,24864,29,63
+Yelow Truck Coffe,-6.902924218337797,107.60530781245411,Local Specialty,Informal (Creative),0.64,32302,35,32
+Fore Coffee,-6.889200968022646,107.6155865279921,Chain/Franchise,Formal,0.17,37852,19,54
+Tree House Cafe,-6.894561301859404,107.61505628101233,Local Specialty,Informal (Creative),0.97,39712,45,47
+Ngopi Doeloe Cafe,-6.894581727274176,107.6158123021592,Local Specialty,Informal (Creative),0.7,31498,69,63
+KOMA Fine Coffee,-6.884622336215723,107.61255338709687,Local Specialty,Informal (Creative),0.95,27663,75,78
+Iriz-u Coffee,-6.9241319176352505,107.67400924899208,Local Standard,Informal,0.06,17227,12,43
+Broy.co,-6.921743128897719,107.67273984296563,Local Standard,Informal,0.19,17614,17,42
+MAXX Coffee,-6.938447818475485,107.62451852130445,Local Standard,Informal,0.06,17742,33,34
+Sweezle,-6.938069025700242,107.62348424979471,Local Standard,Informal,0.28,10783,1,14
+Janji Jiwa Culture,-6.941326196833004,107.6266495645404,Chain/Franchise,Formal,0.13,37816,23,19
+ESKO Cafe,-6.943773537634661,107.64181157535145,Local Standard,Informal,0.1,7266,13,49
+Kafe Leis,-6.879257262331952,107.61278714764867,Local Specialty,Informal (Creative),0.67,34038,53,45
+Cafe,-6.883032885192711,107.6118243071255,Local Specialty,Informal (Creative),0.98,33926,103,88
+Layung Coffee Roastery,-6.916782540831755,107.68943691036957,Local Standard,Informal,0.18,16660,16,19
+Caffetaria,-6.859548822994718,107.59416421435421,Local Specialty,Informal (Creative),0.92,26151,43,55
+Jds Kopi and Roastery,-6.879232513765388,107.63252933305937,Local Specialty,Informal (Creative),0.94,35988,63,60
+Congo Gallery and Cafe,-6.86741201061767,107.62772444395883,Local Specialty,Informal (Creative),0.61,34532,65,62
+Indomaret,-6.916770350000001,107.64195634999999,Local Standard,Informal,0.28,13699,15,16
+LAKESIDE,-6.972657116679792,107.63125239505578,Local Standard,Informal,0.27,17033,10,12
+terasararea Coffee,-6.86404521992073,107.62691544443501,Local Specialty,Informal (Creative),0.63,31828,54,67
+terasararea coffee,-6.864144927180265,107.62686029898701,Local Specialty,Informal (Creative),0.63,33604,47,52
+Kopi Kenangan,-6.813597935064548,107.62053408931585,Chain/Franchise,Formal,0.19,40823,25,55
+Gia's Grange,-6.809226896727861,107.62777605156857,Local Specialty,Informal (Creative),0.87,30940,50,60
+Armor Kopi Badjoeri,-6.844709600000001,107.59292564999998,Local Specialty,Informal (Creative),0.97,33989,90,84
+Warkop Modjok,-6.843253831626244,107.5940791904281,Local Specialty,Informal (Creative),0.66,37191,46,56
+Warmindo Yayang,-6.934226403289231,107.7170311660549,Local Standard,Informal,0.29,13893,30,35
+Cikopi,-6.8841967273375095,107.61235693915546,Local Specialty,Informal (Creative),0.78,36785,65,62
+Parc C Coffe & Eatery,-6.882534290394938,107.61366746491949,Local Specialty,Informal (Creative),0.92,35020,68,53
+Parc C Coffe & Eatery,-6.88242945,107.61372745,Local Specialty,Informal (Creative),0.65,36705,55,64
+Parc C Coffe & Eatery,-6.882375435230562,107.61377631051724,Local Specialty,Informal (Creative),0.85,44165,53,53
+Parc C Coffe & Eatery,-6.8823576756973885,107.61364861772924,Local Specialty,Informal (Creative),0.78,34361,84,83
+Kopi Tentrem,-6.879531542315686,107.61246925987359,Local Specialty,Informal (Creative),0.62,27669,45,47
+Domino Pizza Dago,-6.87999529857916,107.61612148135711,Local Specialty,Informal (Creative),0.68,41143,26,37
+Prabu Coffe,-6.875030883243877,107.6186006978266,Local Specialty,Informal (Creative),0.71,43912,82,74
+Ruang Ketiga,-6.8779434419434455,107.61947554604866,Local Specialty,Informal (Creative),0.6,25882,98,87
+Kanay Coffe,-6.8779616213015915,107.61922927183149,Local Specialty,Informal (Creative),0.86,34604,72,74
+Syura Coffe,-6.880458149999999,107.61633460000002,Local Specialty,Informal (Creative),0.72,44053,82,59
+Kabobs - Premium Kebab Dago,-6.87929045,107.616635,Local Specialty,Informal (Creative),0.9,30336,43,54
+Clie Banana & Donuts,-6.879021378862775,107.61796735096634,Local Specialty,Informal (Creative),0.76,30441,43,50
+Daily Routine Coffe,-6.879099095248687,107.62022093267758,Local Specialty,Informal (Creative),0.85,36915,76,86
+Kurva Coffe,-6.864556400000001,107.6236298,Local Specialty,Informal (Creative),0.91,31592,37,47
+Sedjuk Bakmi And Coffee,-6.883949217662843,107.6253288768396,Local Specialty,Informal (Creative),0.98,26052,47,58
+Adiksi Kopi,-6.879316418630755,107.62414330983417,Local Specialty,Informal (Creative),0.8,37439,37,47
+Adiksi Kopi,-6.87927375,107.62412459999999,Local Specialty,Informal (Creative),0.95,33496,91,64
+Adiksi Kopi,-6.879337276988865,107.62404298239922,Local Specialty,Informal (Creative),0.89,37216,27,40
+Toko Kopi Maju,-6.886954979289086,107.6187949022614,Local Specialty,Informal (Creative),0.91,35240,46,68
+Cafe Tarya,-6.935117961709685,107.64183154796379,Local Standard,Informal,0.21,25226,17,21
+Erla Cafe,-6.87403157917506,107.61861481487072,Local Specialty,Informal (Creative),0.64,37005,84,56
+Cats and Ice Cream Dago,-6.877955939352562,107.61881882829697,Local Specialty,Informal (Creative),0.8,37409,48,71
+Mooja Cafe,-6.8927353455256,107.59026090524188,Local Standard,Informal,0.26,13486,20,36
+Laja House Coffee & Noodles,-6.87059550607823,107.70208959689913,Local Specialty,Informal (Creative),0.62,44696,44,26
+Malmo Food Explore,-6.896937953548183,107.61743598567938,Local Specialty,Informal (Creative),0.94,39703,60,57
+Warung Kopi Imah Babaturan Cabang Tamansari,-6.897010074881374,107.6094107382403,Local Specialty,Informal (Creative),0.78,34035,56,60
+Warung Kopi Imah Babaturan Cabang Tamansari,-6.897103025005269,107.60941230754796,Local Specialty,Informal (Creative),0.91,24556,46,69
+Loko Cafe,-6.912963674398871,107.60296499264273,Local Standard,Informal,0.04,12041,15,45
+Simpang Wangi Coffee & Eatary,-6.904140524881328,107.61920540445672,Local Specialty,Informal (Creative),0.92,37539,4,37
+Starbucks,-6.93885206848225,107.62493929957633,Chain/Franchise,Formal,0.21,42667,31,13
+Starbucks,-6.9760475500000005,107.63680749999999,Chain/Franchise,Formal,0.19,31622,27,25
+Ruang Jumpa co.,-6.87275626676483,107.53271213984215,Local Specialty,Informal (Creative),0.86,38724,35,47
+TEMU KITA COFFEE TERRACE,-6.872229213474554,107.5531701958611,Local Specialty,Informal (Creative),0.65,34760,27,21
+Tedja,-6.960218351600369,107.69483703057298,Local Standard,Informal,0.3,20408,32,49
+ER Coffeelab,-6.959258649999999,107.6946696,Local Standard,Informal,0.25,16706,20,38
+Otterino,-6.95961675,107.69472305000001,Local Standard,Informal,0.14,13395,22,26
+Tomoro,-6.959016496338209,107.6946444689315,Local Standard,Informal,0.02,17173,6,25
+Co-Working Cafe,-6.95764785,107.69478465,Local Standard,Informal,0.22,11153,25,36
+Jaad,-6.957955699999999,107.6947212,Local Standard,Informal,0.03,11550,16,37
+Es Teh Indonesia,-6.957732546437291,107.68956302684984,Local Standard,Informal,0.22,22981,14,14
+Mixue,-6.957638873291771,107.68957094536815,Local Standard,Informal,0.07,12949,16,59
+Starbucks,-6.92134059345656,107.60997891309403,Chain/Franchise,Formal,0.24,38023,21,36
+KEDAI KULINER PATUNG DUA MACAN,-6.860897751761856,107.55267919559975,Local Specialty,Informal (Creative),0.71,34366,87,69
+Richeese Factory,-6.920210740865739,107.62216511760455,Local Standard,Informal,0.18,21413,10,27
+Cafe De Musee,-6.860053211610765,107.59394162837908,Local Specialty,Informal (Creative),0.63,32987,40,52
+Tomoro Coffe,-6.862465859574192,107.59324339829342,Local Specialty,Informal (Creative),0.94,46301,34,34
+People Pleaser,-6.874093097065756,107.6036466756453,Local Specialty,Informal (Creative),0.65,29510,48,74
+Tanulo Coffee,-6.952377504652656,107.60624826574912,Local Standard,Informal,0.23,13677,29,43
+Noir Coffee and Space,-6.952783775312548,107.60586779928808,Local Standard,Informal,0.0,11027,7,29
+Coffee 90,-6.820757248660758,107.63685608905779,Local Specialty,Informal (Creative),0.74,36510,47,64
+Teras Brandweer - Art & Nature,-6.838459052360786,107.5668415360701,Local Specialty,Informal (Creative),0.85,36440,82,78
+One Two B,-6.960071950000003,107.70074,Local Standard,Informal,0.1,12704,15,22
+SkyScape Cafe & Eatery,-6.834842208080489,107.59487297241472,Local Specialty,Informal (Creative),0.89,21978,95,68
+Kopi Toko Djawa,-6.811143742177871,107.63459003035994,Local Specialty,Informal (Creative),0.65,32649,65,70
