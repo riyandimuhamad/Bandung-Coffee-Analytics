@@ -12,7 +12,6 @@ st.set_page_config(page_title="Bandung Coffee Analytics", layout="wide")
 
 st.title("☕ ICSAF Dashboard: Bandung Coffee Saturation")
 st.markdown("---")
-st.title("☕ ICSAF Dashboard: Bandung Coffee Saturation")
 
 # --- TAMBAHKAN INI ---
 st.warning("""
