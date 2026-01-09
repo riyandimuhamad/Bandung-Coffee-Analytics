@@ -12,7 +12,18 @@ st.set_page_config(page_title="Bandung Coffee Analytics", layout="wide")
 
 st.title("☕ ICSAF Dashboard: Bandung Coffee Saturation")
 st.markdown("---")
+st.title("☕ ICSAF Dashboard: Bandung Coffee Saturation")
 
+# --- TAMBAHKAN INI ---
+st.warning("""
+    ⚠️ **DISCLAIMER: DATA SINTETIS UNTUK SIMULASI**
+    Dashboard ini menggunakan **Synthetic Data** (Data Buatan) untuk mendemonstrasikan kemampuan
+    Machine Learning dan Visualisasi Geospasial. 
+    Nama kafe dan lokasi titik mungkin tidak mencerminkan kondisi lapangan yang sesungguhnya secara akurat.
+""")
+# ---------------------
+
+st.markdown("---")
 # ==========================================
 # 2. LOAD DATA
 # ==========================================
